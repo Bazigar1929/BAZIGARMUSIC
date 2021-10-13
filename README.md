@@ -14,6 +14,7 @@
 Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session
 
 ### Credits
-- [BAZIGARYT](https://t.me/BAZIGARYT) : Devloper
-- [Heyaman](https://t.me/heyaaman) : Devloper
-- [Soulmate](https://t.me/SoUlMaTe_oFFicIAl) :  Devloper
+- [CFC SUPPORT](https://t.me/CFC_BOT_SUPPORT) : OWNER👑
+- [BAZIGARYT](https://t.me/BAZIGARYT) : Devloper✨
+- [Heyaman](https://t.me/heyaaman) : Devloper✨
+- [Soulmate](https://t.me/SoUlMaTe_oFFicIAl) :  Devloper✨
