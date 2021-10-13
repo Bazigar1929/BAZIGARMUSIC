@@ -18,3 +18,4 @@ Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrog
 - [BAZIGARYT](https://t.me/BAZIGARYT) : Devloper✨
 - [Heyaman](https://t.me/heyaaman) : Devloper✨
 - [Soulmate](https://t.me/SoUlMaTe_oFFicIAl) :  Devloper✨
+- [Kira](https://t.me/kirarealdeathgod) :Dev✨
