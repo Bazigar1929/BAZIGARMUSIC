@@ -1,4 +1,4 @@
-<h2 align="centre">𝐁𝐀𝐙𝐈 𝐂𝐅𝐂 𝐌𝐔𝐒𝐈𝐂 🎶</h2>
+<h2 align="centre">CFC MUSIC BOT 🎶</h2>
 
 
 
