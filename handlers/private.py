@@ -8,7 +8,7 @@ from config import OWNER_NAME as OWNER_NAME
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""**𝐇𝐞𝐲 𝐈 𝐀𝐦 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 [𝐂𝐅𝐂-𝐁𝐎𝐓𝐒](https://t.me/CFC_BOT_SUPPORT
+        f"""**𝐇𝐞𝐲 𝐈 𝐀𝐦 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 [𝐂𝐅𝐂-𝐁𝐎𝐓𝐒](https://t.me/CFC_BOT_SUPPORT)
         𝐌𝐚𝐤𝐞 𝐘𝐨𝐮𝐫 𝐎𝐰𝐧 𝐁𝐨𝐭 [𝐒𝐎𝐔𝐑𝐂𝐄](https://github.com/BAZIGARX/BAZIGARMUSIC)**
         """,
         reply_markup=InlineKeyboardMarkup(
