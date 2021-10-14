@@ -15,10 +15,10 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦🍬", url="https://github.com/BAZIGARX/BAZIGARMUSIC")
+                        "𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 🍬", url="https://github.com/BAZIGARX/BAZIGARMUSIC")
                   ],[ 
                     InlineKeyboardButton(
-                        "𝗔𝗗𝗗 𝗠𝗘 𝗜𝗡 𝗚𝗥𝗢𝗨𝗣🍭", url="https://t.me/NOINOIMUSICBOT?startgroup=true"
+                        "𝗔𝗗𝗗 𝗠𝗘 𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 🍭", url="https://t.me/NOINOIMUSICBOT?startgroup=true"
                     )]
             ]
         ),
