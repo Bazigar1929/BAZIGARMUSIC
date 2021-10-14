@@ -15,7 +15,7 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 🍬", url="https://github.com/BAZIGARX/BAZIGARMUSIC")
+                        "𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 🍬", url="https://telegra.ph/%F0%9D%90%82%F0%9D%90%85%F0%9D%90%82-%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%92%F0%9D%90%88%F0%9D%90%82-%F0%9D%90%81%F0%9D%90%8E%F0%9D%90%93-10-14")
                   ],[ 
                     InlineKeyboardButton(
                         "𝗔𝗗𝗗 𝗠𝗘 𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 🍭", url="https://t.me/NOINOIMUSICBOT?startgroup=true"
