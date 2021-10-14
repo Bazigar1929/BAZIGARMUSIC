@@ -3,7 +3,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 from config import BOT_NAME as bn
 from helpers.filters import other_filters2
-
+from config import OWNER_NAME as OWNER_NAME
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
@@ -32,7 +32,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝐎𝐰𝐧𝐞𝐫✨", url="https://t.me/BAZIGARYT")
+                        "𝐎𝐰𝐧𝐞𝐫✨", url="https://t.me/{OWNER_NAME}")
                 ]
             ]
         )
